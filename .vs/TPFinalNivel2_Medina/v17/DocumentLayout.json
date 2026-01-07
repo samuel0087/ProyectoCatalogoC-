@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\catalogoapp\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\catalogoapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\catalogoapp\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\catalogoapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{478F83F8-C404-4E01-9330-EB08FBF498D9}|CatalogoApp\\CatalogoApp.csproj|solutionrelative:catalogoapp\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmArticulo.cs",
+              "RelativeDocumentMoniker": "CatalogoApp\\frmArticulo.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmArticulo.cs",
+              "RelativeToolTip": "CatalogoApp\\frmArticulo.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAowAgBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:48:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmArticulo.cs",
+              "RelativeDocumentMoniker": "CatalogoApp\\frmArticulo.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CatalogoApp\\frmArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T01:52:37.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CatalogoApp\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmPrincipal.cs",
+              "RelativeToolTip": "CatalogoApp\\frmPrincipal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:31:01.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "CatalogoApp\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Escritorio\\Sam\\Apps\\.NET Framework\\Escritorio\\TPFinalNivel2_Medina\\CatalogoApp\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CatalogoApp\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T03:30:58.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

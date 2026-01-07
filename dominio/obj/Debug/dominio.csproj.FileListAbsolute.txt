@@ -1,0 +1,6 @@
+C:\Users\RTECH\OneDrive\Escritorio\Sam\Apps\.NET Framework\Escritorio\TPFinalNivel2_Medina\dominio\bin\Debug\dominio.dll
+C:\Users\RTECH\OneDrive\Escritorio\Sam\Apps\.NET Framework\Escritorio\TPFinalNivel2_Medina\dominio\bin\Debug\dominio.pdb
+C:\Users\RTECH\OneDrive\Escritorio\Sam\Apps\.NET Framework\Escritorio\TPFinalNivel2_Medina\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\RTECH\OneDrive\Escritorio\Sam\Apps\.NET Framework\Escritorio\TPFinalNivel2_Medina\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\OneDrive\Escritorio\Sam\Apps\.NET Framework\Escritorio\TPFinalNivel2_Medina\dominio\obj\Debug\dominio.dll
+C:\Users\RTECH\OneDrive\Escritorio\Sam\Apps\.NET Framework\Escritorio\TPFinalNivel2_Medina\dominio\obj\Debug\dominio.pdb
